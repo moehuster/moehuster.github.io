@@ -2,7 +2,7 @@
 title: 'Linux命令`ps aux`输出详解'
 date: 2026-05-02 16:05:00
 tags: Linux
-Categories: Linux
+categories: Linux
 toc_number: false
 ---
 
